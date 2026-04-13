@@ -1,20 +1,25 @@
-# Loan Risk Analysis
+# 📊 Loan Risk Analysis Project
 
-Đồ án chuyên ngành với đề tài: Xây dựng quy trình xử lý, phân tích và trực quan hóa dữ liệu hỗ trợ đánh giá rủi ro cho vay.
+## 📌 Overview
+This project analyzes loan application data to identify key factors affecting loan approval decisions and customer risk levels.
 
-## Cấu trúc thư mục
+The objective is to transform raw data into actionable insights that support better decision-making in the lending process.
 
-- data: dữ liệu gốc và dữ liệu đã xử lý
-- notebooks: notebook phân tích dữ liệu
-- scripts: các file Python hỗ trợ
-- sql: truy vấn SQL
-- powerbi: file Power BI
-- report: báo cáo đồ án
+---
 
-## Công cụ sử dụng
+## 🎯 Objectives
+- Analyze factors influencing loan approval
+- Identify high-risk customer segments
+- Provide data-driven recommendations for credit assessment
 
-Python, Jupyter Notebook, SQL Server, Power BI.
+---
 
-## Nội dung chính
+## 🛠 Tools & Technologies
+- **SQL Server** – Data storage & querying
+- **Python (Pandas, Jupyter Notebook)** – Data cleaning & preprocessing
+- **Power BI** – Data visualization & dashboard
+- **GitHub** – Version control & project management
 
-Tiền xử lý dữ liệu, phân tích khám phá dữ liệu, truy vấn SQL, trực quan hóa dữ liệu và đánh giá các yếu tố ảnh hưởng đến rủi ro cho vay.
+---
+
+## 📂 Project Structure
