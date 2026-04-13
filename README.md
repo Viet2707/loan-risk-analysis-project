@@ -4,10 +4,10 @@
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Overview](report/images/dashboard_overview.png)
+![Overview](report/images/OverviewDashboard.png)
 
 ### 🔹 Detailed Analysis Dashboard
-![Detail](report/images/dashboard_detail.png)
+![Detail](report/images/DetailedDashboard.png)
 
 ---
 
